@@ -1,0 +1,23 @@
+# Built by GitHub Pages with its own Jekyll; nothing to install to publish.
+title: Jeffrin-J
+description: Notes on evaluating AI systems, security and software engineering.
+author:
+  name: Jeffrin-J
+url: https://jeffrin-j.github.io
+github_username: Jeffrin-J
+
+theme: minima
+minima:
+  social_links:
+    github: Jeffrin-J
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:year/:month/:title/
+show_excerpts: true
+
+exclude:
+  - README.md
